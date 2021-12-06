@@ -1,9 +1,7 @@
 Hi {source},
 
 
-Welcome to InDigital's {year} Secret Santa Gift Exchange!
-
-Please ignore the previous email, a reindeer must have sat on my keyboard multiple times.
+Welcome to {group}'s {year} Secret Santa Gift Exchange!
 
 Here is the person you have been given to buy a gift for this Christmas:
 
@@ -11,7 +9,7 @@ Here is the person you have been given to buy a gift for this Christmas:
 
 I suggest you spend between £10 and £15 on your gift.
 
-We'll be sharing our gifts on Friday the 17th of December at the Christmas Meal, so please make sure to bring your gift with you!
+We'll be sharing our gifts on {event}, so please make sure to bring your gift with you!
 
 Have fun!
 
